@@ -1,0 +1,11 @@
+{
+  "type": "kenji-stack",
+  "version": "1.0",
+  "name": "my-test-stack",
+  "skills": [
+    {
+      "type": "registry",
+      "value": "yourusername/my-test-skill"
+    }
+  ]
+}
