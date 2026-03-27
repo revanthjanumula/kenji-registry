@@ -1,0 +1,7 @@
+{
+  "name": "my-test-skill",
+  "description": "Testing community registry",
+  "repo": "yourusername/test-skill-repo",
+  "tags": ["test", "community"],
+  "entry": "SKILL.md"
+}
