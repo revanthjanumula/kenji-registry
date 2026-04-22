@@ -1,7 +1,0 @@
-{
-  "name": "my-test-skill",
-  "description": "Testing community registry",
-  "repo": "revanthjanumula/test-skill-repo",
-  "tags": ["test", "community"],
-  "entry": "SKILL.md"
-}
