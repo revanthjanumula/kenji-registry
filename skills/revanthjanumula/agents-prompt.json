@@ -1,0 +1,7 @@
+{
+  "name": "agents-prompt",
+  "description": "Agent prompt skill",
+  "repo": "revanthjanumula/kenji-registry",
+  "entry": "skills/revanthjanumula/Agents Prompt/Agents.md",
+  "tags": ["agents", "agent"]
+}
