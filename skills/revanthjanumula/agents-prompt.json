@@ -1,7 +1,12 @@
 {
   "name": "agents-prompt",
-  "description": "Agent prompt skill",
+  "description": "High-agency senior software engineering workflow for agentic coding environments. Use when building, refactoring, debugging, architecting, or extending production software collaboratively with an AI coding agent. Optimized for side-by-side human+AI development where the AI acts as an implementation partner while the human remains the decision-maker. Emphasizes clean architecture, maintainable code, fast iteration, safe refactoring, debugging discipline, and production-grade engineering practices across full-stack systems.",
   "repo": "revanthjanumula/kenji-registry",
   "entry": "skills/revanthjanumula/Agents Prompt/Agents.md",
-  "tags": ["agents", "agent"]
+  "tags": [
+    "agents",
+    "software engineering",
+    "agentic coding",
+    "code review",
+  ]
 }
